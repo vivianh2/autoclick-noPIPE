@@ -6,7 +6,7 @@ This is just a project for fun <3
 2. `cd ` into the autoclicker directory and run
 3. Jupyter-notebook Version and Python Version are both provided
 
-## NOTE
+## Note
 1. This version ONLY ensures you to not miss a clicker question.
 2. Program MUST be runned under the "autoclicker" folder.
 3. Remeber to input your account email and password correctly.
