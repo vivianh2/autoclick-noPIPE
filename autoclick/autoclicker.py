@@ -124,7 +124,7 @@ def multiple_choice():
         time.sleep(60)
 
     driver.quit()
-    q.join()
+    #q.join()
 
 
 def main():
